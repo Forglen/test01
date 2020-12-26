@@ -25,6 +25,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -134,6 +135,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="558" y="22" key="CommitChangelistDialog2" timestamp="1608990084949">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="558" y="22" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608990084949" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1608990067730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608990067730" />
     <state width="1877" height="180" key="GridCell.Tab.0.bottom" timestamp="1606574410792">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
